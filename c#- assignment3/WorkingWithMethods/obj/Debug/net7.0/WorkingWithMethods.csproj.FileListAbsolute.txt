@@ -1,0 +1,15 @@
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/bin/Debug/net7.0/WorkingWithMethods
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/bin/Debug/net7.0/WorkingWithMethods.deps.json
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/bin/Debug/net7.0/WorkingWithMethods.runtimeconfig.json
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/bin/Debug/net7.0/WorkingWithMethods.dll
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/bin/Debug/net7.0/WorkingWithMethods.pdb
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/WorkingWithMethods.csproj.AssemblyReference.cache
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/WorkingWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/WorkingWithMethods.AssemblyInfoInputs.cache
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/WorkingWithMethods.AssemblyInfo.cs
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/WorkingWithMethods.csproj.CoreCompileInputs.cache
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/WorkingWithMethods.dll
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/refint/WorkingWithMethods.dll
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/WorkingWithMethods.pdb
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/WorkingWithMethods.genruntimeconfig.cache
+/Users/chengcheng/Antra_Docs/WorkingWithMethods/obj/Debug/net7.0/ref/WorkingWithMethods.dll
