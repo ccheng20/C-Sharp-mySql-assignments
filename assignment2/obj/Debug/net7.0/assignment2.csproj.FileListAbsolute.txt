@@ -1,0 +1,15 @@
+/Users/chengcheng/Antra_Docs/assignment2/bin/Debug/net7.0/assignment2
+/Users/chengcheng/Antra_Docs/assignment2/bin/Debug/net7.0/assignment2.deps.json
+/Users/chengcheng/Antra_Docs/assignment2/bin/Debug/net7.0/assignment2.runtimeconfig.json
+/Users/chengcheng/Antra_Docs/assignment2/bin/Debug/net7.0/assignment2.dll
+/Users/chengcheng/Antra_Docs/assignment2/bin/Debug/net7.0/assignment2.pdb
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/assignment2.csproj.AssemblyReference.cache
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/assignment2.AssemblyInfoInputs.cache
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/assignment2.AssemblyInfo.cs
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/assignment2.csproj.CoreCompileInputs.cache
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/assignment2.dll
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/refint/assignment2.dll
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/assignment2.pdb
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/assignment2.genruntimeconfig.cache
+/Users/chengcheng/Antra_Docs/assignment2/obj/Debug/net7.0/ref/assignment2.dll
