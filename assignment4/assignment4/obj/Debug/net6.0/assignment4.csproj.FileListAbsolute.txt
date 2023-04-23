@@ -1,0 +1,15 @@
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/bin/Debug/net6.0/assignment4
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/bin/Debug/net6.0/assignment4.deps.json
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/bin/Debug/net6.0/assignment4.runtimeconfig.json
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/bin/Debug/net6.0/assignment4.dll
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/bin/Debug/net6.0/assignment4.pdb
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/assignment4.csproj.AssemblyReference.cache
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/assignment4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/assignment4.AssemblyInfoInputs.cache
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/assignment4.AssemblyInfo.cs
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/assignment4.csproj.CoreCompileInputs.cache
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/assignment4.dll
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/refint/assignment4.dll
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/assignment4.pdb
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/assignment4.genruntimeconfig.cache
+/Users/chengcheng/Antra_Docs/assignment4/assignment4/obj/Debug/net6.0/ref/assignment4.dll
