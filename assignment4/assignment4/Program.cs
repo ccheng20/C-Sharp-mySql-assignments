@@ -33,4 +33,20 @@ genRepo.Add(entity1);
 genRepo.GetById("asdahsfds");
 
 
+// delegates and Fibonacci
+FibonacciDelegate fibonacci = (n) =>
+{
+    int first = 0;
+    int second = 1;
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write(first + " ");
+        int temp = first + second;
+        first = second;
+        second = temp;
+    }
+
+};
+fibonacci(6);
+
 Console.Read();
