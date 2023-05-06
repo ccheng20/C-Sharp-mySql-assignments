@@ -1,0 +1,13 @@
+footer {
+    background-color:#272e31;
+    color: aliceblue;
+    display: block;
+}
+
+div.footer-menus {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+
